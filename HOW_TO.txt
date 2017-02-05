@@ -1,0 +1,7 @@
+how to submit a blog post:
+
+cd _posts
+creat a file with extension md, dont forget header
+git add .
+git commit -m "message"
+git push origin gh-pages
